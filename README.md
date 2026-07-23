@@ -18,5 +18,3 @@ A smart agricultural IoT coop environment controller featuring climate regulatio
 - Real-Time Clock (DS3231 RTC) & LDR Light Sensor
 - Ultrasonic Distance Sensor (HC-SR04)
 
----
-*Transferred from original project portfolio to official GitHub repository.*
